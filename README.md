@@ -1,5 +1,8 @@
-<img align="right" src="https://github.com/SushantKumarSanu/SushantKumarSanu/blob/main/myProfileImg.jpg?raw=true" width="140" />
-# Hi, I’m Sushant Kumar Sanu👋
+<p align="center">
+  <img src="https://github.com/SushantKumarSanu/SushantKumarSanu/blob/main/myProfileImg.jpg?raw=true" width="150" />
+</p>
+
+<h1>Hi, I’m Sushant Kumar Sanu 👋</h1>
 
 I’m an **intermediate full-stack developer** with a **strong backend focus**, actively building real-world applications and preparing for **backend / full-stack roles (internship or full-time)**.
 
